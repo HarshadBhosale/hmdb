@@ -1,0 +1,13 @@
+{
+  "main.css": "/hmdb/static/css/main.936cc987.chunk.css",
+  "main.js": "/hmdb/static/js/main.4258dea0.chunk.js",
+  "main.js.map": "/hmdb/static/js/main.4258dea0.chunk.js.map",
+  "static/js/1.8b656c46.chunk.js": "/hmdb/static/js/1.8b656c46.chunk.js",
+  "static/js/1.8b656c46.chunk.js.map": "/hmdb/static/js/1.8b656c46.chunk.js.map",
+  "runtime~main.js": "/hmdb/static/js/runtime~main.000ac1d9.js",
+  "runtime~main.js.map": "/hmdb/static/js/runtime~main.000ac1d9.js.map",
+  "static/css/main.936cc987.chunk.css.map": "/hmdb/static/css/main.936cc987.chunk.css.map",
+  "index.html": "/hmdb/index.html",
+  "precache-manifest.d9ab87a67db847d599ee41bdbbdc404f.js": "/hmdb/precache-manifest.d9ab87a67db847d599ee41bdbbdc404f.js",
+  "service-worker.js": "/hmdb/service-worker.js"
+}
